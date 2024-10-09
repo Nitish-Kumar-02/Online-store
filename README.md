@@ -21,10 +21,10 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/grocery-store.git
+   `git clone https://github.com/yourusername/grocery-store.git`
 **2.Navigate to the project directory:**
 
-cd grocery-store
+`cd grocery-store`
 
 **3.Set up XAMPP:**
 Make sure you have XAMPP installed on your system.
@@ -55,13 +55,13 @@ Update the database connection settings in the config.php file (if applicable) w
 **Contributing**
 _Contributions are welcome!_ Please follow these steps:
 
-1.Fork the repository.
-2.Create a new branch:
+1. Fork the repository.
+2. Create a new branch:
 `git checkout -b feature-branch`
-3.Make your changes and commit them.
-4.Push to your branch:
+3. Make your changes and commit them.
+4. Push to your branch:
 `git push origin feature-branch`
-5.Create a pull request.
+5. Create a pull request.
 
 ### Notes:
 **- Make sure to replace `https://github.com/yourusername/grocery-store.git` with the actual URL of your GitHub repository.**
