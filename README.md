@@ -41,10 +41,10 @@ Import the database schema from database.sql (if provided in the project) into t
 Update the database connection settings in the config.php file (if applicable) with your database credentials.
 
 **Usage**
-1.Open your web browser.
-2.Go to http://localhost/grocery-store to access the application.
-3.Browse products, add items to your cart, and proceed to checkout.
-4.After confirming your order, you will receive an email confirmation at the address you provided.
+1. Open your web browser.
+2. Go to http://localhost/grocery-store to access the application.
+3. Browse products, add items to your cart, and proceed to checkout.
+4. After confirming your order, you will receive an email confirmation at the address you provided.
 
 **Technologies Used**
 1.PHP
