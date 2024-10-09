@@ -42,15 +42,15 @@ Update the database connection settings in the config.php file (if applicable) w
 
 **Usage**
 1. Open your web browser.
-2. Go to http://localhost/grocery-store to access the application.
+2. Go to `http://localhost/grocery-store` to access the application.
 3. Browse products, add items to your cart, and proceed to checkout.
 4. After confirming your order, you will receive an email confirmation at the address you provided.
 
 **Technologies Used**
-1.PHP
-2.CSS
-3.MySQL (via XAMPP)
-4.HTML
+1. PHP
+2. CSS
+3. MySQL (via XAMPP)
+4. HTML
 
 **Contributing**
 _Contributions are welcome!_ Please follow these steps:
